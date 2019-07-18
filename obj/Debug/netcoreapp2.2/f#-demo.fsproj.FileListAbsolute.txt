@@ -1,0 +1,10 @@
+d:\MyFiles\Coding\Projects\Boilerplates\f#-demo\bin\Debug\netcoreapp2.2\f#-demo.deps.json
+d:\MyFiles\Coding\Projects\Boilerplates\f#-demo\bin\Debug\netcoreapp2.2\f#-demo.runtimeconfig.json
+d:\MyFiles\Coding\Projects\Boilerplates\f#-demo\bin\Debug\netcoreapp2.2\f#-demo.runtimeconfig.dev.json
+d:\MyFiles\Coding\Projects\Boilerplates\f#-demo\bin\Debug\netcoreapp2.2\f#-demo.dll
+d:\MyFiles\Coding\Projects\Boilerplates\f#-demo\bin\Debug\netcoreapp2.2\f#-demo.pdb
+d:\MyFiles\Coding\Projects\Boilerplates\f#-demo\obj\Debug\netcoreapp2.2\f#-demo.fsprojAssemblyReference.cache
+d:\MyFiles\Coding\Projects\Boilerplates\f#-demo\obj\Debug\netcoreapp2.2\f#-demo.AssemblyInfoInputs.cache
+d:\MyFiles\Coding\Projects\Boilerplates\f#-demo\obj\Debug\netcoreapp2.2\f#-demo.AssemblyInfo.fs
+d:\MyFiles\Coding\Projects\Boilerplates\f#-demo\obj\Debug\netcoreapp2.2\f#-demo.dll
+d:\MyFiles\Coding\Projects\Boilerplates\f#-demo\obj\Debug\netcoreapp2.2\f#-demo.pdb

@@ -2,7 +2,7 @@
 
 ![project template](https://img.shields.io/badge/project-template-blue.svg?style=flat-square)
 
-> A server-client f# demo
+> A server-client f# demo.
 
 ## Getting started
 ```sh
